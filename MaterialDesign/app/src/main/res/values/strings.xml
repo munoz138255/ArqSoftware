@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MaterialDesign</string>
+    <string name="reload_strings">Reload strings</string>
+    <string name="empty_string_itemtext">Empty: @string/itemText</string>
+    <string name="edit_message">Introduce a name!</string>
+    <string name="button_save">Save edit</string>
+    <string name="button_cancel">Cancel edit</string>
+    <string name="button_return">Return</string>
+</resources>
